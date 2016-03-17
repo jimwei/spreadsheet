@@ -128,5 +128,6 @@ func (this *CellRectList) ToString() string {
 }
 func (this *CellRectList) ToSegmentTable() SegmentTable {
 	//TODO:
+    
 	return nil
 }
